@@ -6,9 +6,9 @@ terminals from another Mac and CLI/MCP control for agents working in the backgro
 ## Download
 
 - [Latest release](https://github.com/halinskiy/qeepl-updates/releases/latest)
-- Current release: [0.4.48 · build 102](https://github.com/halinskiy/qeepl-updates/releases/tag/v0.4.48)
-- [Download Qeepl 0.4.48 DMG](https://github.com/halinskiy/qeepl-updates/releases/download/v0.4.48/Qeepl-0.4.48.dmg)
-- [Download Qeepl 0.4.48 ZIP](https://github.com/halinskiy/qeepl-updates/releases/download/v0.4.48/Qeepl-0.4.48.zip)
+- Current release: [0.4.49 · build 103](https://github.com/halinskiy/qeepl-updates/releases/tag/v0.4.49)
+- [Download Qeepl 0.4.49 DMG](https://github.com/halinskiy/qeepl-updates/releases/download/v0.4.49/Qeepl-0.4.49.dmg)
+- [Download Qeepl 0.4.49 ZIP](https://github.com/halinskiy/qeepl-updates/releases/download/v0.4.49/Qeepl-0.4.49.zip)
 
 Open the DMG and drag Qeepl to Applications. The app and DMG are signed with
 Developer ID and notarized by Apple.
@@ -16,6 +16,14 @@ Developer ID and notarized by Apple.
 Installed copies download updates through Sparkle and show **Restart to Update**.
 An unattended Mac can install once its terminals are idle. The **Check for Updates…**
 menu command requests installation when the update is ready.
+
+## In 0.4.49
+
+- **Background blur slider:** 0% keeps the canvas clear; 100% fully covers the desktop behind it with a neutral frosted backdrop. The separate black-background mode and Transparent Background switch are gone.
+- **Font size slider:** right-click a terminal → Font Size, 8–72 pt. Remote mirrors send the setting to the host so both Macs keep matching text and geometry.
+- **Simpler menus:** removed the native Window menu and three terminal font commands from View. Cmd+Option+=/-/0 still adjust/reset font size, independently of keyboard layout.
+
+Settings persist. Ordinary background click-through and Option+drag canvas panning are unchanged.
 
 ## In 0.4.48
 
