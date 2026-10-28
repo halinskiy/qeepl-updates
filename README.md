@@ -23,7 +23,8 @@ menu command requests installation when the update is ready.
 - **Font size slider:** right-click a terminal → Font Size, 8–72 pt. Remote mirrors send the setting to the host so both Macs keep matching text and geometry.
 - **Simpler menus:** removed the native Window menu and three terminal font commands from View. Cmd+Option+=/-/0 still adjust/reset font size, independently of keyboard layout.
 
-Settings persist. Ordinary background click-through and Option+drag canvas panning are unchanged.
+Settings persist. Old Off / Light / Medium / Strong blur preferences migrate to 0 / 25 / 55 / 85%.
+Ordinary background click-through and Option+drag canvas panning are unchanged.
 
 ## In 0.4.48
 
@@ -62,7 +63,21 @@ screen and a shell instead of choosing a conversation. Switching conversations w
 - Two-finger scroll: move the canvas. Option+scroll: scroll the window under the pointer.
 - Cmd+F: find a Qeepl window, including when VS Code has focus. Editor text search remains
   available through its Edit → Find menu or command palette.
+- View → Background Blur: 0–100% frosted backdrop. View → Locked Window Opacity: 5–100% visibility.
+- Right-click a terminal → Font Size: 8–72 pt. Cmd+Option+=/- changes size;
+  Cmd+Option+0 restores 13 pt. For a selected remote mirror, the host applies the change.
 - Hold Cmd+Q for two seconds to quit; a white line at the bottom shows progress.
+
+## Release verification
+
+Version 0.4.49 (build 103) passed a 178-test suite with zero failures and two skips.
+Checks include native offscreen slider rendering, saved settings and migration,
+keyboard routing, background coverage endpoints and the host/mirror font-grid round-trip.
+Desktop-composited blur was not manually checked in the user's running app.
+
+The app and DMG passed Apple notarization. All seven release-asset hashes and a
+freshly downloaded ZIP were verified, along with version/build metadata and the
+signed public Sparkle feed. Documentation-only updates do not replace the binaries.
 
 ## Update feed
 
