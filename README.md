@@ -6,9 +6,9 @@ terminals from another Mac and CLI/MCP control for agents working in the backgro
 ## Download
 
 - [Latest release](https://github.com/halinskiy/qeepl-updates/releases/latest)
-- Current release: [0.4.47 · build 101](https://github.com/halinskiy/qeepl-updates/releases/tag/v0.4.47)
-- [Download Qeepl 0.4.47 DMG](https://github.com/halinskiy/qeepl-updates/releases/download/v0.4.47/Qeepl-0.4.47.dmg)
-- [Download Qeepl 0.4.47 ZIP](https://github.com/halinskiy/qeepl-updates/releases/download/v0.4.47/Qeepl-0.4.47.zip)
+- Current release: [0.4.48 · build 102](https://github.com/halinskiy/qeepl-updates/releases/tag/v0.4.48)
+- [Download Qeepl 0.4.48 DMG](https://github.com/halinskiy/qeepl-updates/releases/download/v0.4.48/Qeepl-0.4.48.dmg)
+- [Download Qeepl 0.4.48 ZIP](https://github.com/halinskiy/qeepl-updates/releases/download/v0.4.48/Qeepl-0.4.48.zip)
 
 Open the DMG and drag Qeepl to Applications. The app and DMG are signed with
 Developer ID and notarized by Apple.
@@ -16,6 +16,11 @@ Developer ID and notarized by Apple.
 Installed copies download updates through Sparkle and show **Restart to Update**.
 An unattended Mac can install once its terminals are idle. The **Check for Updates…**
 menu command requests installation when the update is ready.
+
+## In 0.4.48
+
+- Mouse tracking resets when an SSH connection or terminal application ends and control returns to the shell.
+- Remote mirrors receive the same reset; delayed pointer packets no longer type coordinates into the prompt. Running applications keep their mouse controls.
 
 ## In 0.4.47
 
