@@ -3,6 +3,22 @@
     <channel>
         <title>Qeepl</title>
         <item>
+            <title>0.4.149</title>
+            <pubDate>Sun, 22 Nov 2026 22:50:34 +0400</pubDate>
+            <sparkle:version>203</sparkle:version>
+            <sparkle:shortVersionString>0.4.149</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/halinskiy/qeepl-updates/releases/download/v0.4.149/Qeepl-0.4.149.zip" length="4740659" type="application/octet-stream" sparkle:edSignature="zhxcIACqQOrt1spHtTMsECjYF9PBo2Fyg7tL/8vdTSIzn02ZZpUcFO2IDTRdte4Wi2u88lLt935QuOWPwQdxDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/halinskiy/qeepl-updates/releases/download/v0.4.149/Qeepl203-202.delta" sparkle:deltaFrom="202" length="350714" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YIEz0P8sBYlkx1tYvc0DZ5E4h5wr13/W7bU1aPFV749zv0MlYH0kXab842Kvkm+8vPQZLOpasWToZ4PyJKKiDA=="/>
+                <enclosure url="https://github.com/halinskiy/qeepl-updates/releases/download/v0.4.149/Qeepl203-201.delta" sparkle:deltaFrom="201" length="418458" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qC4BleRfdvLLNn43tXzUcEEUi2xERHasT2QcHQwtZ6HlyKGplzzUFlAEIdwWoTjsRFQC/iVjT2OmQzbZUrteAg=="/>
+                <enclosure url="https://github.com/halinskiy/qeepl-updates/releases/download/v0.4.149/Qeepl203-200.delta" sparkle:deltaFrom="200" length="462810" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="K52YJVOVmhyFS2XFLCCBVv6NAm+uKlv6TJn4LGdiP7f09QWJPzBLMkCAGQkX+F64Td16/K5SWZkqQMaYohUDAg=="/>
+                <enclosure url="https://github.com/halinskiy/qeepl-updates/releases/download/v0.4.149/Qeepl203-199.delta" sparkle:deltaFrom="199" length="538274" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ew3wTbJP/66a2gHsd9VS1AXWQmTm14jRZKdLLF2A4jGmOQZ6KhrqbyKmPemURR4+ffP4R1UJTRR+YNccXLlYBA=="/>
+                <enclosure url="https://github.com/halinskiy/qeepl-updates/releases/download/v0.4.149/Qeepl203-198.delta" sparkle:deltaFrom="198" length="541534" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4iwYCXWGbPk64IqLzJiqdhMLRg0zz90ipacp/pjWpeAQ7agksb2moVipCqG2pA4OXVjdKpwdeRw32UJ99cHfBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.4.148</title>
             <pubDate>Sun, 22 Nov 2026 22:39:51 +0400</pubDate>
             <sparkle:version>202</sparkle:version>
@@ -32,22 +48,6 @@
                 <enclosure url="https://github.com/halinskiy/qeepl-updates/releases/download/v0.4.147/Qeepl201-198.delta" sparkle:deltaFrom="198" length="487462" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OMyLUHQ9fCvaIPxBrcDDUL5Cxn58Ykb7eX4Q6IQYWdQod5RI8FsH/tZh9g9KYz36UTmjoNCAa8cHG9wqSv9wDQ=="/>
                 <enclosure url="https://github.com/halinskiy/qeepl-updates/releases/download/v0.4.147/Qeepl201-197.delta" sparkle:deltaFrom="197" length="520450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NDgqAuWxM9mTRTNQuyOquZbVBDY8Hm5OjUl3ecgVzCL2+vKUQfnQxEjS5fWi1netquMAth3JRoM4eLVMo0A5Aw=="/>
                 <enclosure url="https://github.com/halinskiy/qeepl-updates/releases/download/v0.4.147/Qeepl201-196.delta" sparkle:deltaFrom="196" length="643094" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="u7390ede61XULfWHiGgZe70GUVnqHyWvQNWWyifUSiRYgUAhdVY+9TeERlGwtzwe283uZKqD5dYjLlCjRDtdAA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.4.146</title>
-            <pubDate>Sun, 22 Nov 2026 22:10:06 +0400</pubDate>
-            <sparkle:version>200</sparkle:version>
-            <sparkle:shortVersionString>0.4.146</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/halinskiy/qeepl-updates/releases/download/v0.4.146/Qeepl-0.4.146.zip" length="4733002" type="application/octet-stream" sparkle:edSignature="u/iJ5IbxPVerWjoa30Bm1VcJs2sRfj67n5hN9hNtYbpDclkv02OdRnazIXN2DZSxQlLBLVHCbPGajE6RcwOLCw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/halinskiy/qeepl-updates/releases/download/v0.4.146/Qeepl200-199.delta" sparkle:deltaFrom="199" length="438266" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="htxBdgbmS+9Mw5qvxLpIm/eoFpRZBLY5y82J/2xSQFhjM7mQV4tTiBwwNPUm1Voh/aaJNp9twVDjfHJwVxd2Bw=="/>
-                <enclosure url="https://github.com/halinskiy/qeepl-updates/releases/download/v0.4.146/Qeepl200-198.delta" sparkle:deltaFrom="198" length="454998" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vsKKPUkrAbuXBJe8wQSCJltjpjoEAndm3ac20X5YFmKuQxGD+z0xIUGQ7yFQMpPpX+w+eQgXnO7JQ0b69oavCA=="/>
-                <enclosure url="https://github.com/halinskiy/qeepl-updates/releases/download/v0.4.146/Qeepl200-197.delta" sparkle:deltaFrom="197" length="487854" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="05/XGuAxJNnm2sCFbbd3HsEDUeFRueX9QFfS7W/lU8OP6nxxJembEWIl7XtlAr6B/Y1Ouls020Ye54zG9trnBQ=="/>
-                <enclosure url="https://github.com/halinskiy/qeepl-updates/releases/download/v0.4.146/Qeepl200-196.delta" sparkle:deltaFrom="196" length="638902" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZHASpaxzgCdGMrC7l1Me1/PR1nznmGOfuL9yohH3Df0FEwnpERjhWT67gI7FeQSoHesay8Hj3fQHMJrsYgHNBA=="/>
-                <enclosure url="https://github.com/halinskiy/qeepl-updates/releases/download/v0.4.146/Qeepl200-195.delta" sparkle:deltaFrom="195" length="681710" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="F1ctsINaJSXtXMCSjVjKm+2IIpru/XYhZZWNPDfmjUvKyokx9IW5Dcxo7eZPtiZQs6uNm9tH4gVAqkBMiGNICw=="/>
             </sparkle:deltas>
         </item>
     </channel>
