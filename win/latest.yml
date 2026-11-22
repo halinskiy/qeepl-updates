@@ -1,8 +1,8 @@
-version: 0.2.0
+version: 0.2.1
 files:
-  - url: https://github.com/halinskiy/qeepl-updates/releases/download/win-v0.2.0/Qeepl-Setup-0.2.0.exe
-    sha512: pTuKSEvPfU3zNU9E61MOFd85wWdazhuCx/pFctKN/H6mxRJhqJ0634p4qpE/rMe4eb04dDWYYBrvm+vNOtmYmw==
-    size: 123538202
-path: https://github.com/halinskiy/qeepl-updates/releases/download/win-v0.2.0/Qeepl-Setup-0.2.0.exe
-sha512: pTuKSEvPfU3zNU9E61MOFd85wWdazhuCx/pFctKN/H6mxRJhqJ0634p4qpE/rMe4eb04dDWYYBrvm+vNOtmYmw==
-releaseDate: '2026-11-21T21:01:55.800Z'
+  - url: https://github.com/halinskiy/qeepl-updates/releases/download/win-v0.2.1/Qeepl-Setup-0.2.1.exe
+    sha512: /7wAJY4C3m6v+PQXeDbfDo6977A7cPRqwDOIPA40pQuxVDccDqpTMkHPt3mCS+JIRwt4LJ+qLeLDm2w6AGPSBQ==
+    size: 123538779
+path: https://github.com/halinskiy/qeepl-updates/releases/download/win-v0.2.1/Qeepl-Setup-0.2.1.exe
+sha512: /7wAJY4C3m6v+PQXeDbfDo6977A7cPRqwDOIPA40pQuxVDccDqpTMkHPt3mCS+JIRwt4LJ+qLeLDm2w6AGPSBQ==
+releaseDate: '2026-11-22T01:13:12.297Z'
